@@ -1,0 +1,51 @@
+<html>
+
+
+<!-- Ultimate Game Stash file--> 
+<!-- For the regularly updating doc go to https://docs.google.com/document/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q/ -->
+
+
+
+<head>
+	<script src="//www.google.com/jsapi"></script>
+	<script>
+		window.parent.maeExportApis_();
+	</script>
+
+	<style>
+		body {
+			overflow: hidden;
+			background: #000000;
+			margin-top: 0;
+			margin-left: 0;
+			color: #000000;
+		}
+
+		#startButton {
+			display: block;
+			width: 160px;
+			height: 40px;
+			background-color: #4CAF50;
+			color: white;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 16px;
+			margin: 4px 2px;
+			cursor: pointer;
+		}
+	</style>
+</head>
+
+<body>
+	<div id="game"></div>
+	<button id="startButton">Start Game</button>
+	<script>
+		var gameUrl = "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/baby-kaizo/index.html";
+		document.getElementById('startButton').onclick = function() {
+			document.getElementById('game').innerHTML = '<iframe src="' + gameUrl + '" width="100%" height="100%" style="border:none;position:fixed;top:0;left:0;"></iframe>';
+			this.style.display = 'none';
+		};
+	</script>
+</body>
+</html>
