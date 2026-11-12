@@ -11,10 +11,8 @@ FAILED https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/ruffle.js: curl: (22)
 FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/baldis-basics/baldisbasics.swf: curl: (22) The requested URL returned error: 404
 
 BASE MISS bubbls/UGS-Assets@main/bandit-gunslingers
-FILE bazookaboy: https://rawcdn.githack.com/bubbls/youtube-playables/main/ytgame.js -> ../_shared/68ca46c5d3e9-ytgame.js
 BASE MISS bubbls/UGS-Assets@main/bearbarians
 BASE MISS bubbls/UGS-Assets@main/blackjack
 BASE MISS bubbls/UGS-Assets@main/blacksmith-lab
 BASE MISS bubbls/UGS-Assets@main/block-post
 BASE MISS bubbls/UGS-Assets@main/blood-tournament
-FILE bottlejump3d: https://rawcdn.githack.com/bubbls/youtube-playables/main/ytgame.js -> ../_shared/68ca46c5d3e9-ytgame.js
