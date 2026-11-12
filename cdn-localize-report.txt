@@ -1,20 +1,20 @@
-BASE OK bubbls/UGS-Assets@ab3e2b7f551bcab53684a867b5bc3acfd406ebc6/babel tower -> babeltower
-BASE REWRITE babeltower
-FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/baby-kaizo/index.html: curl: (22) The requested URL returned error: 404
 
-FILE backyard-baseball: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> assets/cdn/6fd5328a-ruffle.js
-FILE backyard-baseball: https://cdn.jsdelivr.net/gh/jackilyna/jpexs-decompiler@d7faf59c568d293546266b2c02fafea47955817c/examples/backyard-baseball.swf -> ../_shared/3c1ecdba0b80-backyard-baseball.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
+
 BASE MISS bubbls/UGS-Assets@main/bad-monday-simulator
 BASE MISS bubbls/UGS-Assets@main/bad-ice-cream
-FAILED https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/ruffle.js: curl: (22) The requested URL returned error: 403
+FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/bad-piggies/index.html: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/ruffle.js: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/baldis-basics/baldisbasics.swf: curl: (22) The requested URL returned error: 404
 
-BASE OK bubbls/youtube-playables@main/ball-blast -> ballblast
-BASE REWRITE ballblast
 BASE MISS bubbls/UGS-Assets@main/bandit-gunslingers
+FILE bazookaboy: https://rawcdn.githack.com/bubbls/youtube-playables/main/ytgame.js -> ../_shared/68ca46c5d3e9-ytgame.js
 BASE MISS bubbls/UGS-Assets@main/bearbarians
 BASE MISS bubbls/UGS-Assets@main/blackjack
 BASE MISS bubbls/UGS-Assets@main/blacksmith-lab
 BASE MISS bubbls/UGS-Assets@main/block-post
 BASE MISS bubbls/UGS-Assets@main/blood-tournament
+FILE bottlejump3d: https://rawcdn.githack.com/bubbls/youtube-playables/main/ytgame.js -> ../_shared/68ca46c5d3e9-ytgame.js
